@@ -12,4 +12,4 @@ I'm dedicated to delivering seamless user experiences, optimizing performance, a
 
 Feel free to explore my pinned repositories to see some of my work!
 
-[![Pauls's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbinder)](https://github.com/pbinder/github-readme-stats)
+[![Pauls's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbinder)](https://github.com/pbinder/github-readme-stats&show_icons=true&theme=radical))
