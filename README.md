@@ -11,3 +11,5 @@ My expertise lies in:
 I'm dedicated to delivering seamless user experiences, optimizing performance, and mentoring junior developers to elevate code quality and team efficiency.
 
 Feel free to explore my pinned repositories to see some of my work!
+
+[![Pauls's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbinder)](https://github.com/pbinder/github-readme-stats)
