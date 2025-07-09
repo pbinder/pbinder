@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hello! I'm Paul Binder, a Senior Frontend Developer & Technical Lead.
 
-<!--
-**pbinder/pbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bring a wealth of experience in developing robust ESG solutions and energy management systems, with a strong focus on modernizing enterprise-scale applications. 
+Currently based in Seoul, South Korea.
 
-Here are some ideas to get you started:
+My expertise lies in:
+* **Frontend Development:** React, TypeScript, Monorepo, MUI, Redux, Responsive Design, Angular.
+* **Technical Leadership:** Leading diverse, cross-functional remote teams, driving architecture refactoring, and establishing CI/CD pipelines.
+* **Cloud & Backend:** Azure Cloud, C#, REST APIs, SQL, Docker, Jira.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm dedicated to delivering seamless user experiences, optimizing performance, and mentoring junior developers to elevate code quality and team efficiency.
+
+Feel free to explore my pinned repositories to see some of my work!
