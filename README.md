@@ -12,6 +12,12 @@ I'm dedicated to delivering seamless user experiences, optimizing performance, a
 
 Feel free to explore my pinned repositories to see some of my work!
 
-![Pauls's GitHub stats](https://github-stats-fork.vercel.app/api?username=pbinder&theme=dark&show_icons=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&include_all_commits=true)
-
-![Top Langs](https://github-stats-fork.vercel.app/api/top-langs/?username=pbinder&layout=compact&theme=dark)
+<div style="display:flex;justify-content:space-between;align-items:center;gap:20px;">
+  
+<a href="https://github-stats-fork.vercel.app/api?username=pbinder&theme=dark&show_icons=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&include_all_commits=true">
+  <img height=300 align="center" src="https://github-stats-fork.vercel.app/api?username=pbinder&theme=dark&show_icons=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&include_all_commits=true" />
+</a>
+<a href="https://github-stats-fork.vercel.app/api/top-langs/?username=pbinder&layout=compact&theme=dark&langs_count=8&card_width=320">
+  <img height=300 align="center" src="https://github-stats-fork.vercel.app/api/top-langs/?username=pbinder&layout=compact&theme=dark&langs_count=8&card_width=320" />
+</a>
+</div>
