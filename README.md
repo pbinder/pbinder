@@ -12,5 +12,5 @@ I'm dedicated to delivering seamless user experiences, optimizing performance, a
 
 Feel free to explore my pinned repositories to see some of my work!
 
-![Pauls's GitHub stats](https://github-stats-fork.vercel.app/api?username=pbinder&theme=dark&show_icons=true&hide=stars,issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Pauls's GitHub stats](https://github-stats-fork.vercel.app/api?username=pbinder&theme=dark&show_icons=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-stats-fork.vercel.app/api/top-langs/?username=pbinder&layout=compact&theme=dark)
