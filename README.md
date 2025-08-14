@@ -32,4 +32,4 @@ Feel free to explore my pinned repositories to see some of my work!
   <img height=300 align="center" src="https://github-stats-fork.vercel.app/api/top-langs/?username=pbinder&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
-<p align="left"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600"></p>
+<p align="left"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="600"></p>
